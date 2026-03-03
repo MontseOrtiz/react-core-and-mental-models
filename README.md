@@ -79,6 +79,7 @@ Este repositorio documenta mi comprensión personal de los conceptos explicados 
 - Documentación oficial de React: https://react.dev
 - ReactJS Wiki: https://www.reactjs.wiki/
 - MDN Web Docs: https://developer.mozilla.org/
+- StandarJS: https://standardjs.com/
 
 ---
 
