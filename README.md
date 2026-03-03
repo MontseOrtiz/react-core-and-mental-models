@@ -20,7 +20,8 @@ El objetivo no es solo aprender la sintaxis, sino comprender los modelos mentale
 > Este índice se actualiza conforme avanzo en el curso.
 
 - [00 - React sin dependencias](./00-React_sin_dependencias/notas.md)
-- [01 - Componentes, Props y Convenciones](./01-twitter-follow-card/notas.md)
+- [01 - Componentes, Props y Convenciones](./projects/01-twitter-follow-card/notas.md)
+- [02 - Inmutabilidad, Spread/Rest y Estado en React](./projects/02-tic-tac-toe/notas.md)
 
 ---
 
